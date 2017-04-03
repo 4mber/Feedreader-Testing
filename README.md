@@ -17,7 +17,7 @@ In this project you are given a web-based application that reads RSS feeds. The 
 2. ... all feeds have a defined name that is not empty.
 3. ... the menu button is hidden by default.
 4. ... the menu displays when the menu button is clicked, and hides when the menu button is clicked again.
-5. ... each feed has at least one entry
+5. ... each feed has at least one entry.
 6. ... content actually changes when a new feed is loaded, and that it is not the same content as the inital feed.
 
 ###### All 7 tests passed!
