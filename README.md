@@ -19,7 +19,7 @@ In this project you are given a web-based application that reads RSS feeds. The 
 4. ... the menu displays when the menu button is clicked, and hides when the menu button is clicked again.
 5. ... each feed has at least one entry.
 6. ... content actually changes when a new feed is loaded, and that it is not the same content as the inital feed.
-* **All 7 tests passed!**
+##### All 7 tests passed!
 
 [Here's the demo!](https://4mber.github.io/Feedreader-Testing/)
 
