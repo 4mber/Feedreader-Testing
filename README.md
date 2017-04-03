@@ -1,6 +1,6 @@
 # READ ME
 
-This is a project completed for Udacity in which I have implemented and passed several Feed Reader Tests using [Jasmine](http://jasmine.github.io/).
+This is a project completed for the Udacity Front End Web Development Nanodegree in which I have implemented and passed several Feed Reader Tests using [Jasmine](http://jasmine.github.io/).
 
 #### Project Overview:
 
